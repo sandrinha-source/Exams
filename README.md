@@ -1,2 +1,2 @@
 # Exams
-Passed or failed? This is a code written in Python to find out if you passed or failed your exams... 
+Passed or failed? This is Python code to find out whether you passed or failed their exams
